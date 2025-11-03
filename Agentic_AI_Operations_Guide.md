@@ -2021,7 +2021,7 @@ For AWS customers leveraging Bedrock AgentCore with frameworks like LangGraph, t
 
 ---
 
-## Key Takeaways for GenAI Specialists and SA Leaders
+## Key Takeaways
 
 1. **Your first-line support must handle 70-80% of issues independently.** This requires comprehensive observability, clear runbooks, and business-to-technical metric correlation—not deep GenAI expertise from L1 teams.
 
